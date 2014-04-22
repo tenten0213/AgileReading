@@ -1,0 +1,4 @@
+[submodule "pages"]
+	path = pages
+	url = git@github.com:tenten0213/AgileReading.git
+	branch = gh-pages
